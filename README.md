@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+:toc: auto
+:toc-position: left
+:toclevels: 3
 
-You can use the [editor on GitHub](https://github.com/patty08/projetIHM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+= TEST PROJET IHM
+Welcome to CloudUnit documentation, it can help you to set up CloudUnit, learn about the system, or get your applications and workloads running on CloudUnit. To learn the basics of what CloudUnit is and how it works.
+This document lets you try out CloudUnit right out of your web browser, using the cloudunit plateforme. Learn about the CloudUnit system and deploy, expose, scale, and upgrade a containerized application in just a few minutes.
 
-### Markdown
+:Author:    Treeptik
+:Email:     p.randria@treeptik.fr
+:Date:      2017
+:Revision:  version 0.1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+© 2017 @Treeptik authors.
 
-```markdown
-Syntax highlighted code block
+= Projet IHM
+== ceci est un test
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a volutpat quam, quis auctor elit. Phasellus varius sapien at lacus sagittis iaculis. Integer ut risus et sapien rutrum malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus nec rhoncus tellus. Sed eget libero nisi. Integer viverra ante vel gravida suscipit. Nullam congue auctor libero, sit amet malesuada quam bibendum vitae. Morbi viverra, urna non pulvinar laoreet, odio libero consequat lorem, eu dapibus justo mi vitae lorem. Fusce pellentesque tellus eu feugiat pharetra. Integer egestas tempus neque, eget volutpat risus pretium eu. Nam fermentum gravida blandit. Sed consequat diam rutrum lorem elementum, et venenatis leo euismod. Phasellus neque ante, semper vel blandit ut, aliquet in odio.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patty08/projetIHM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Proin sit amet est tincidunt libero fringilla porta. Donec enim ipsum, tincidunt quis erat quis, placerat imperdiet quam. Etiam vel ornare elit, ornare molestie nibh. Phasellus vitae ex sit amet nibh imperdiet fermentum ac eu justo. Nullam lobortis efficitur elit vel lacinia. Aenean a nunc nisi. Etiam pellentesque ultricies velit. Nam lobortis tincidunt vestibulum. Suspendisse potenti. Donec laoreet et sapien nec condimentum. Ut sed nibh sem. Proin rhoncus ligula sed elementum gravida. Donec et sapien massa.
